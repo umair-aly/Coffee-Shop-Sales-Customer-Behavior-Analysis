@@ -361,7 +361,7 @@ LEFT JOIN (
 GROUP BY c.customer_id, c.customer_since;
 
 
--- 15)  Beans_generation_gender_loyalty
+-- 16)  Beans_generation_gender_loyalty
 
 CREATE OR REPLACE VIEW Beans_generation_gender_loyalty AS
 SELECT

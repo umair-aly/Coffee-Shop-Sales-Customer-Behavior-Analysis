@@ -1,5 +1,5 @@
-# Coffee Shop Sales Customer Behavior Analysis
-The is a Coffee Shop Dataset from April 2019 across three NYC outlets. The dataset includes representative retail data from April 2019 across three outlets in New York City. It encompasses thousands of transactions, various product categories (such as coffee beans, pastries, and beverages), staff details, customer information, inventory, sales targets, and more. This project examines the Coffee Shop Sample Dataset, which covers sales receipts, product details, customer demographics, and operational metrics from a single month in 2019.
+# Coffee Shop Sales & Customer Behavior Analysis
+There is a Coffee Shop Dataset from April 2019 across three NYC outlets. The dataset includes representative retail data from April 2019 across three outlets in New York City. It encompasses thousands of transactions, various product categories (such as coffee beans, pastries, and beverages), staff details, customer information, inventory, sales targets, and more. This project examines the Coffee Shop Sample Dataset, which covers sales receipts, product details, customer demographics, and operational metrics from a single month in 2019.
 
 The analysis aims to uncover insights into top-performing categories, outlet and staff performance, customer behavior, temporal sales trends, retention rates, average order values, inventory efficiency, target achievement, promotional effectiveness, and a focused funnel analysis on coffee beans.
 
